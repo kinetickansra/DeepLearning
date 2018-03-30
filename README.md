@@ -14,5 +14,4 @@ Type python Project1.py into terminal and you'll see the scatter plot and line o
 
 
 ##Result
-
 ![Result](brainbody-LRline.png)
