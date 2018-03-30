@@ -12,4 +12,5 @@ The goal is to predict an animal's body weight given it's brain weight. The mode
 ##Usage
 Type python Project1.py into terminal and you'll see the scatter plot and line of best fit appear.
 
+![Result](brainbody-LRline.png)
 
